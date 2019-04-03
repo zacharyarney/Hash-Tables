@@ -8,3 +8,6 @@ build
 
 */b_hashtables
 */hashtables
+
+*.swp
+.DS_Store
